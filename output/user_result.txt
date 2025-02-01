@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-01 18:29:33,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-02-01 19:09:52,http://z.b.bkpcp.top/m.php?id=cctv1
 
 频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -16,5 +16,4 @@ CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+法治天地,http://139.196.151.191:2051/rtp/239.45.1.46:5140
